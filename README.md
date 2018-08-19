@@ -13,7 +13,7 @@ Three missionaries and three cannibals are on one side of a river. They all need
 Just install nodejs and run:
 
 ```
-$ node index.js
+$ node src/index.js
 ```
 
 ## Method
