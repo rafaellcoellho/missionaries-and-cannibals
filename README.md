@@ -22,7 +22,7 @@ I used Breadth-first search to find the solution in the tree of possibilities.
 
 <p align="center">
 	<a href="">
-		<img alt="bfs" src="./Animated_BFS.gif" width="300px">
+		<img alt="bfs" src="./Animated_BFS.gif" width="100px">
 	</a>
 </p>
 
