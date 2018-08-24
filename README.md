@@ -26,3 +26,30 @@ I used Breadth-first search to find the solution in the tree of possibilities.
 	</a>
 </p>
 
+## Example
+
+Initial State: 
+
+```javascript
+let firstState = new Node( new State(3,3,0,0,true) );
+```
+
+Final State: 
+
+```javascript
+let objetiveState = new Node( new State(0,3,3,0,true) );
+```
+
+Output:
+```
+Missionaries and Cannibals problem
+State 0: {mL:3,cL:3,mR:0,cR:0}
+State 1: {mL:3,cL:1,mR:0,cR:2}
+State 2: {mL:3,cL:2,mR:0,cR:1}
+State 3: {mL:3,cL:0,mR:0,cR:3}
+State 4: {mL:3,cL:1,mR:0,cR:2}
+State 5: {mL:1,cL:1,mR:2,cR:2}
+State 6: {mL:2,cL:2,mR:1,cR:1}
+State 7: {mL:0,cL:2,mR:3,cR:1}
+State 8: {mL:0,cL:3,mR:3,cR:0}
+```
