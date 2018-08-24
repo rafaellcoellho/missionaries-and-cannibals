@@ -5,7 +5,10 @@ This program solves the classic missionaries and cannibals problem. This is part
 Problem: 
 
 ```
-Three missionaries and three cannibals are on one side of a river. They all need to get to the other side of the river and the only method of doing so is by means of a two person rowing boat. Unfortunately, if there are ever more cannibals than missionaries in the same place, the missionaries will get eaten. How can they all get safely across the river?
+Three missionaries and three cannibals are on one side of a river. They all need to get to the 
+other side of the river and the only method of doing so is by means of a two person rowing 
+boat. Unfortunately, if there are ever more cannibals than missionaries in the same place, 
+the missionaries will get eaten. How can they all get safely across the river?
 ```
 
 ## How to run
