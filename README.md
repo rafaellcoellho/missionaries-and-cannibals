@@ -32,9 +32,11 @@ I used Breadth-first search to find the solution in the tree of possibilities.
 
 ## Example
 
-C = Cannibal
-M = Missionary
-Arrow = Side of the boat
+**C** = Cannibal
+
+**M** = Missionary
+
+**Arrow** = Side of the boat
 
 Initial State: 
 
