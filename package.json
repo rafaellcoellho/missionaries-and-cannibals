@@ -1,0 +1,24 @@
+{
+  "name": "missionaries-and-cannibals",
+  "version": "1.0.0",
+  "description": "This program solves the classic missionaries and cannibals problem. This is part of an exercise from computational intelligence class.",
+  "main": "main.js",
+  "dependencies": {
+    "graph-data-structure": "^1.8.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "node src/main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rafaellcoellho/missionaries-and-cannibals.git"
+  },
+  "author": "rafaellcoellho",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rafaellcoellho/missionaries-and-cannibals/issues"
+  },
+  "homepage": "https://github.com/rafaellcoellho/missionaries-and-cannibals#readme"
+}
