@@ -13,11 +13,11 @@ the missionaries will get eaten. How can they all get safely across the river?
 
 ## How to run
 
-Just install nodejs and run:
+Just install nodejs and npm and run:
 
 ```
 $ npm i
-$ node src/main.js
+$ npm run build
 ```
 
 ## Method
